@@ -5,22 +5,25 @@
 h1 {
   margin-bottom: 15px;
   margin-center: auto;
+  text-align:center;
 }
 
 h4 {
   margin-bottom: 15px;
   margin-center: auto;
+  text-align: right;
 }
 
 p {
   border: 1px solid black;
-  margin:2px;
-  padding: 5px;
+  margin:1px;
+  padding: 2px;
   background-color: #BEBCA1;
   width: 90%;
   height: 300px;
   margin-right: auto;
   margin-left: auto;
+  text-align:center;
   font-family: Arial;
   color: white;
 }
