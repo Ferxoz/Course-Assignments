@@ -7,9 +7,14 @@ h1 {
   margin-center: auto;
 }
 
+h4 {
+  margin-bottom: 15px;
+  margin-center: auto;
+}
+
 p {
-  border: 1.5px solid black;
-  padding: 10px;
+  border: 1px solid black;
+  padding: 5px;
   background-color: #BEBCA1;
   width: 90%;
   height: 300px;
