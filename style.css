@@ -12,12 +12,11 @@ h4 {
   margin-bottom: 1px;
   margin-center: auto;
   text-align: right;
+  font-family: Arial;
 }
 
 p {
   border: 1px solid black;
-  margin: 1px;
-  padding: 2px;
   background-color: #BEBCA1;
   width: 90%;
   height: 300px;
